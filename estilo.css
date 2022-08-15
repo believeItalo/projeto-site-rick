@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+
+
+body{
+    background-color: #304d63;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+
+.rick{
+    
+    width: 250px;
+}
+
+.container-text{
+    width:330px;
+    height: 10px;
+    margin-left: 150px;
+    font-weight: 900;
+    text-align: center;
+    color: #BBE0F2;
+
+   
+}
+
+p{ margin-top: 30px;
+    text-align: justify;
+   
+}
+h1{ 
+    padding: 10px;
+    font-size: 50px;
+}
+
+.container-portal{
+    background-image: url(./portal-rick-and-morty-unscreen.gif);
+    background-repeat: no-repeat;
+    background-position: center, center;
+    background-size: 500px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+}
+
+.rodape{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    margin-left: 530px;
+    padding-top: 100px;
+    color: #bbe0f2; ;
+   
+}
