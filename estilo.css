@@ -18,11 +18,11 @@ body{
 
 .rick{
     
-    width: 250px;
+    width: 450px;
 }
 
 .container-text{
-    width:330px;
+    width:530px;
     height: 10px;
     margin-left: 150px;
     font-weight: 900;
@@ -32,30 +32,31 @@ body{
    
 }
 
-p{ margin-top: 30px;
+p{ margin-top: 100px;
     text-align: justify;
+    font-size: 25px;
    
 }
 h1{ 
     padding: 10px;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .container-portal{
     background-image: url(./portal-rick-and-morty-unscreen.gif);
     background-repeat: no-repeat;
     background-position: center, center;
-    background-size: 500px;
+    background-size: 730px;
     display:flex;
     align-items: center;
     justify-content: center;
-    margin-left: 400px;
+    margin-left: 600px;
 }
 
 .rodape{
     font-family: 'Fjalla One', sans-serif;
     font-size: 20px;
-    margin-left: 530px;
+    margin-left: 750px;
     padding-top: 100px;
     color: #bbe0f2; ;
    
